@@ -14,3 +14,16 @@ python -m venv .venv
 ```bash
 .venv/Scripts/activate
 ```
+### Next you need to write to the console
+1.
+```bash
+pip install aiogram
+```
+2.
+```bash
+pip install sqlalchemy
+```
+3.
+```bash
+pip install selenium
+```
