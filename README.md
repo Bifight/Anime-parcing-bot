@@ -6,3 +6,7 @@ web driver was used 132.0.6834.159
 
 # For run the script
 You need to download the zip and extract it to any convenient folder
+Create your virtual environment
+'''bash
+
+'''
