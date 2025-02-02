@@ -27,3 +27,4 @@ pip install sqlalchemy
 ```bash
 pip install selenium
 ```
+now the code should correct work
