@@ -10,4 +10,7 @@ You need to download the zip and extract it to any convenient folder
 ```bash
 python -m venv .venv
 ```
-
+### Windows
+```bash
+.venv/Scripts/activate
+```
